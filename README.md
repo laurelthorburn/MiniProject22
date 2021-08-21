@@ -1,2 +1,2 @@
-# MiniProject22
-Creating a student mini project that encompasses a user based contact page
+# Mini-Project-22
+Creating basic html/css based site
