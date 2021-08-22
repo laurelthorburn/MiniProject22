@@ -73,6 +73,7 @@ button {
     background-color: rgb(79, 72, 70);
     border: ridge black;
     padding: 5px 20px;
+    margin: 5px;
 }
 
 footer {
