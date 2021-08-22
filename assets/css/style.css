@@ -4,7 +4,8 @@
     padding: 0;
 }
 /* Header */
-header {
+header,
+footer {
     background-color: rgb(38, 97, 80);
     width: auto;
     height: auto;
