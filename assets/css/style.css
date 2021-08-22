@@ -10,14 +10,18 @@ header {
     height: auto;
     border-bottom: rgb(221, 175, 148) solid .5rem;
     color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: right;
 }
 
-nav
 a {
     align-items: right;
     text-decoration: none;
-    display: inline;
     color: white;
+    margin: 25px;
+    padding: 15px;
+
 }
 
 body {
