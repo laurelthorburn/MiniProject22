@@ -26,9 +26,14 @@ a {
 body {
     background-color: white;
     color: rgb(79, 72, 70);
-    box-align: center;
+    text-align: center;
 }
 
 h1 {
     font-size: 28px;
+}
+
+section {
+    background-color: blue;
+    border-top: rgb(221, 175, 148) solid 5px ;
 }
