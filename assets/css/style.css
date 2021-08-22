@@ -31,9 +31,18 @@ body {
 
 h1 {
     font-size: 28px;
+    font-weight: bolder;
+    margin-top: 15px;
 }
 
 section {
-    background-color: blue;
+    background-color: rgb(232, 206, 191);
     border-top: rgb(221, 175, 148) solid 5px ;
+}
+button {
+    color: rgb(253, 248, 245);
+    background-color: rgb(79, 72, 70); ;
+}
+img {
+    margin: 20px;
 }
