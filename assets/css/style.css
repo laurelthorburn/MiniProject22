@@ -30,19 +30,33 @@ body {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 40px;
     font-weight: bolder;
     margin-top: 15px;
+}
+h2 {
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 15px;
 }
 
 section {
     background-color: rgb(232, 206, 191);
     border-top: rgb(221, 175, 148) solid 5px ;
 }
-button {
-    color: rgb(253, 248, 245);
-    background-color: rgb(79, 72, 70); ;
-}
 img {
     margin: 20px;
+}
+
+.Contact {
+    border: rgb(221, 175, 148) solid 5px ;
+    margin:0px;
+    padding: 0px;
+    height: auto;
+    width: auto;
+}
+button {
+    color: rgb(253, 248, 245);
+    background-color: rgb(79, 72, 70);
+    border: ridge black;
 }
