@@ -59,4 +59,10 @@ button {
     color: rgb(253, 248, 245);
     background-color: rgb(79, 72, 70);
     border: ridge black;
+    padding: 5px 20px;
+}
+
+footer {
+    border-bottom: grey 10px;
+    border-top: none;
 }
