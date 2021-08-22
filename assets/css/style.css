@@ -1,9 +1,9 @@
-/* Header */
+/* Universal Selector */
 *{
     margin: 0;
     padding: 0;
 }
-
+/* Header */
 header {
     background-color: rgb(38, 97, 80);
     width: auto;
@@ -12,22 +12,20 @@ header {
     color: white;
     font-size: 20px;
     font-family: sans-serif;
-    text-align: right;
+    position: relative;
 }
 
 a {
-    align-items: right;
     text-decoration: none;
     color: white;
-    margin: 25px;
-    padding: 15px;
-
+    float: right;
+    position: relative;
 }
 
 body {
     background-color: white;
-    align-items: center;
     color: rgb(79, 72, 70);
+    box-align: center;
 }
 
 h1 {
